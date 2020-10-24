@@ -9,7 +9,7 @@ Please keep in mind that this extension is still in very early devlopment, and i
 
 **Contact:** Press "Contact the Devloper" on the Chrome Web Store page (linked above).
 
-**Current version:** 1.2 (1.3 pending) 
+**Current version:** 1.3 
 
-**Updates:** 1.1 has just been accepted. It features a nicer background and font. A new image has just been uploaded to the store!. If you have any feature requests, or other directions this project should travel in, please email me from the Chrome Webstore (see contact section of this README), or just create a feature request under issues.
+**Updates:** Version 1.3 has just been accepted, the buttons are temporarily removed. If you have any feature requests, or other directions this project should travel in, please email me from the Chrome Webstore (see contact section of this README), or just create a feature request under issues.
 
